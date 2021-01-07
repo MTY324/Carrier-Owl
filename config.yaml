@@ -1,11 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:hep-th'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        gradient flow: 3
+        supersymmetry: 3
+        dark matter: 1
 
 # 通知の閾値
 score_threshold: 0
