@@ -5,6 +5,7 @@ subject: 'cat:hep-lat OR cat:hep-ph OR cat:hep-th'
 keywords:
         gradient flow: 3
         supersymmetry: 3
+        anomal: 2
         dark matter: 1
 
 # 通知の閾値
