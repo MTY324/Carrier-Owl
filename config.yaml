@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:hep-lat OR cat:hep-ph OR cat:hep-th'
+subject: 'cat:hep-lat.* OR cat:hep-ph.* OR cat:hep-th.*'
 
 # 検索キーワード
 keywords:
