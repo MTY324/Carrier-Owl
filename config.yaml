@@ -4,7 +4,9 @@ subject: 'cat:hep-lat OR cat:hep-ph OR cat:hep-th'
 # 検索キーワード
 keywords:
         gradient flow: 3
+        SFtX: 3
         supersymmetry: 3
+        energy-momentum tensor: 2
         anomaly: 2
         dark matter: 1
 
